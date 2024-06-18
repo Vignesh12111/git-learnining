@@ -1,4 +1,4 @@
-  HTTP1.1  HTTP2;
+difference between HTTP1.1 and HTTP2:
 
      In the realm of web communication protocols, HTTP  is the cornerstone that facilitates the exchange of information on the World Wide Web. As technology advances and demands for faster, more efficient web experiences grow, protocols like HTTP undergo transformations to meet these needs. HTTP1.1 has long been the standard, but with the introduction of HTTP2, significant improvements have been made to address its predecessor's limitations and enhance performance in a modern web environment.
 

@@ -12,9 +12,9 @@ difference between HTTP1.1 and HTTP2:
 
 * Compression: HTTP1.1 added support for content compression, typically using gzip, to reduce the size of transmitted data. This led to faster transmission times and reduced bandwidth consumption, benefiting both servers and clients.
 
-While HTTP1.1 brought significant improvements over its predecessor, it also had inherent limitations that became more pronounced as web technologies and user expectations evolved.
+ HTTP1.1 brought significant improvements over its predecessor, it also had inherent limitations that became more pronounced as web technologies and user expectations evolved.
 
- Enter HTTP2: The Next Generation Protocol
+  HTTP2: The Next Generation Protocol
 
       Recognizing the need for further optimization, HTTP2 was developed and standardized by the Internet Engineering Task Force (IETF) in 2015. Unlike HTTP1.1, which focused on optimizing individual requests and responses, HTTP2 takes a holistic approach to improving web performance by addressing fundamental protocol limitations. Key features of HTTP2 include:
 
